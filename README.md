@@ -10,7 +10,8 @@ zie projectwerk.
 
 # Manual week 2: Index geolite
 
-Bekijk alle slides -> [02_1_INDEX.eng.pdf](https://projektwerk.ucll.be/projects/db2/repository/raw/02_1_INDEX.eng.pdf) / [02_1_INDEX.nld.pdf](https://projektwerk.ucll.be/projects/db2/repository/raw/02_1_INDEX.nld.pdf)
+Bekijk slides EN -> [02_1_INDEX.eng.pdf](https://projektwerk.ucll.be/projects/db2/repository/raw/02_1_INDEX.eng.pdf)
+Bekijk slides NL -> [02_1_INDEX.nld.pdf](https://projektwerk.ucll.be/projects/db2/repository/raw/02_1_INDEX.nld.pdf)
 
 (Kijk ook zeker eens in de tables folder in pgadmin voor indexes) en gebruik https://www.postgresqltutorial.com/postgresql-database-indexes-table-size/
 
@@ -68,14 +69,12 @@ Bekijk lateral join -> [04_2_LATERAL.pdf](https://projektwerk.ucll.be/projects/d
 
 (Inleiding [05_1_Inleiding_procedurele_SQL.pdf](https://projektwerk.ucll.be/projects/db2/repository/raw/05_1_Inleiding_procedurele_SQL.pdf))
 
-Bekijk deze slides ->
+Bekijk deze slides:
 
-[05_1_Inleiding_procedurele_SQL.pdf](https://projektwerk.ucll.be/projects/db2/repository/raw/05_1_Inleiding_procedurele_SQL.pdf)
-[05_2_procedurele_SQL.pdf](https://projektwerk.ucll.be/projects/db2/repository/raw/05_2_procedurele_SQL.pdf) 
-[05_3_procedurele_sql_2.pdf](https://projektwerk.ucll.be/projects/db2/repository/raw/05_3_procedurele_sql_2.pdf)
-[05_6_Procedures_Functions_Triggers.pdf](https://projektwerk.ucll.be/projects/db2/repository/raw/05_6_Procedures_Functions_Triggers.pdf)
-
-
+- [05_1_Inleiding_procedurele_SQL.pdf](https://projektwerk.ucll.be/projects/db2/repository/raw/05_1_Inleiding_procedurele_SQL.pdf)
+- [05_2_procedurele_SQL.pdf](https://projektwerk.ucll.be/projects/db2/repository/raw/05_2_procedurele_SQL.pdf) 
+- [05_3_procedurele_sql_2.pdf](https://projektwerk.ucll.be/projects/db2/repository/raw/05_3_procedurele_sql_2.pdf)
+- [05_6_Procedures_Functions_Triggers.pdf](https://projektwerk.ucll.be/projects/db2/repository/raw/05_6_Procedures_Functions_Triggers.pdf)
 
 > **Gebruikt ook Google of de links in "Extra" om de oefeningen op te lossen.**
 
