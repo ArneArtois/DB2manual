@@ -16,13 +16,11 @@ Bekijk alle slides -> [02_1_INDEX.eng.pdf](https://projektwerk.ucll.be/projects/
 
 Bekijk explain analyze ->  [03_1_explain.pdf](https://projektwerk.ucll.be/projects/db2/repository/raw/03_1_explain.pdf)
 
-Gebruik google
+Gebruik google als je iets niet kan vinden in de slides.
 
-Download geolite.sql https://projektwerk.ucll.be/projects/db2/repository/raw/databank_scripts/geolite.sql
-
-Download Postgresql https://www.postgresql.org/download/
-
-geolite.sql installeren https://github.com/martijnmeeldijk/TI-oplossingen/blob/master/Semester_4/DB2/DB2-Labos/hoe_maak_ik_een_lokale_databank.md
+* Download geolite.sql https://projektwerk.ucll.be/projects/db2/repository/raw/databank_scripts/geolite.sql
+* Download Postgresql https://www.postgresql.org/download/
+* geolite.sql installeren https://github.com/martijnmeeldijk/TI-oplossingen/blob/master/Semester_4/DB2/DB2-Labos/hoe_maak_ik_een_lokale_databank.md
 
 **Maak oefeningen -> [02_3_index_geolite.pdf](https://projektwerk.ucll.be/projects/db2/repository/raw/02_3_index_geolite.pdf)**
 
