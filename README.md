@@ -6,6 +6,8 @@
 
 # Manual week 1: DB1 RECAP
 
+zie projectwerk.
+
 # Manual week 2: Index geolite
 
 Bekijk alle slides -> [02_1_INDEX.eng.pdf](https://projektwerk.ucll.be/projects/db2/repository/raw/02_1_INDEX.eng.pdf) / [02_1_INDEX.nld.pdf](https://projektwerk.ucll.be/projects/db2/repository/raw/02_1_INDEX.nld.pdf)
@@ -18,7 +20,7 @@ Gebruik google
 
 **Maak oefeningen -> [02_3_index_geolite.pdf](https://projektwerk.ucll.be/projects/db2/repository/raw/02_3_index_geolite.pdf)**
 
-Theorie:
+Extra -> [02_4_SQL_inhaal_oef_eng.pdf](https://projektwerk.ucll.be/projects/db2/repository/raw/02_4_SQL_inhaal_oef_eng.pdf)
 
 
 
@@ -34,6 +36,14 @@ Bekijk explain analyze ->  [03_1_explain.pdf](https://projektwerk.ucll.be/projec
 
 **Maak oefeningen NL -> [03_4_Optimalisatie_oef.pdf](https://projektwerk.ucll.be/projects/db2/repository/raw/03_4_Optimalisatie_oef.eng.pdf)**
 
+Theorie:
+
+[03_2_Dedection_and_benchmarking.pdf](https://projektwerk.ucll.be/projects/db2/repository/raw/03_2_Dedection_and_benchmarking.pdf)
+
+Other:
+
+[03_3_Remining_indexen.pdf](https://projektwerk.ucll.be/projects/db2/repository/raw/03_3_Remining_indexen.pdf)
+
 
 
 # Manual week 4: Limiting results & Lateral
@@ -42,15 +52,13 @@ Bekijk limiting result sets EN -> [04_1_Limiting_result_sets.eng.pdf](https://pr
 
 Bekijk limiting result sets NL -> [04_1_Limiting_result_sets.nld.pdf](https://projektwerk.ucll.be/projects/db2/repository/raw/04_1_Limiting_result_sets.nld.pdf)
 
-Bekijk lateral join -> [04_2_LATERAL.pdf](https://projektwerk.ucll.be/projects/db2/repository/changes/04_2_LATERAL.pdf)
+Bekijk lateral join -> [04_2_LATERAL.pdf](https://projektwerk.ucll.be/projects/db2/repository/raw/04_2_LATERAL.pdf)
 
 **Maak oefening -> [04_3_chinook_media.pdf](https://projektwerk.ucll.be/projects/db2/repository/raw/04_3_chinook_media.pdf)**
 
-
-
 # Manual week 5: Triggers & Functions
 
-(Inleiding [05_1_Inleiding_procedurele_SQL.pdf](https://projektwerk.ucll.be/projects/db2/repository/changes/05_1_Inleiding_procedurele_SQL.pdf))
+(Inleiding [05_1_Inleiding_procedurele_SQL.pdf](https://projektwerk.ucll.be/projects/db2/repository/raw/05_1_Inleiding_procedurele_SQL.pdf))
 
 Bekijk deze slides ->
 
@@ -135,11 +143,13 @@ Theorie:
 
 [10_3_OtherFormats.pdf](https://projektwerk.ucll.be/projects/db2/repository/raw/10_3_OtherFormats.pdf)
 
+sql file: https://projektwerk.ucll.be/projects/db2/repository/changes/10_4_GIS_en_MED.sql
+
 Bekijk -> [10_1_XML.pdf](https://projektwerk.ucll.be/projects/db2/repository/raw/10_1_XML.pdf)
 
 Maak oefeningen -> [10_5_XML_oef.pdf](https://projektwerk.ucll.be/projects/db2/repository/raw/10_5_XML_oef.pdf)
 
-# Manual week 11: 
+# Manual week 11: Replication
 
 Theorie:
 
