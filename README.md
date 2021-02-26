@@ -142,9 +142,8 @@ Bekijk -> [09_3_ORDBMS.pdf](https://projektwerk.ucll.be/projects/db2/repository/
 
 Theorie:
 
-[10_2_JSON.pdf](https://projektwerk.ucll.be/projects/db2/repository/raw/10_2_JSON.pdf)
-
-[10_3_OtherFormats.pdf](https://projektwerk.ucll.be/projects/db2/repository/raw/10_3_OtherFormats.pdf)
+- [10_2_JSON.pdf](https://projektwerk.ucll.be/projects/db2/repository/raw/10_2_JSON.pdf)
+- [10_3_OtherFormats.pdf](https://projektwerk.ucll.be/projects/db2/repository/raw/10_3_OtherFormats.pdf)
 
 sql file: https://projektwerk.ucll.be/projects/db2/repository/changes/10_4_GIS_en_MED.sql
 
