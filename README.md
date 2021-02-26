@@ -123,19 +123,16 @@ Bekijk -> [08_5_CTEs_english.pdf](https://projektwerk.ucll.be/projects/db2/repos
 
 **Maak oefeningen -> [08_3_CTEs_oefeningen.pdf](https://projektwerk.ucll.be/projects/db2/repository/raw/08_3_CTEs_oefeningen.pdf)**
 
-Onvolledige oplossing [08_4_CTEs_oplossingen.pdf](https://projektwerk.ucll.be/projects/db2/repository/raw/08_4_CTEs_oplossingen.pdf)
+Onvolledige oplossing -> [08_4_CTEs_oplossingen.pdf](https://projektwerk.ucll.be/projects/db2/repository/raw/08_4_CTEs_oplossingen.pdf)
 
 # Manual week 9: DBM - Soorten
 
 Lees deze slides:
 
-[09_1_ODMS_ORDBMS.pdf](https://projektwerk.ucll.be/projects/db2/repository/raw/09_1_ODMS_ORDBMS.pdf)
-
-[09_2_ODMS.pdf](https://projektwerk.ucll.be/projects/db2/repository/raw/09_2_ODMS.pdf)
-
-[09_4_NoSQL.pdf](https://projektwerk.ucll.be/projects/db2/repository/raw/09_4_NoSQL.pdf)
-
-[09_5_DBMS.pdf](https://projektwerk.ucll.be/projects/db2/repository/raw/09_5_DBMS.pdf)
+- [09_1_ODMS_ORDBMS.pdf](https://projektwerk.ucll.be/projects/db2/repository/raw/09_1_ODMS_ORDBMS.pdf)
+- [09_2_ODMS.pdf](https://projektwerk.ucll.be/projects/db2/repository/raw/09_2_ODMS.pdf)
+- [09_4_NoSQL.pdf](https://projektwerk.ucll.be/projects/db2/repository/raw/09_4_NoSQL.pdf)
+- [09_5_DBMS.pdf](https://projektwerk.ucll.be/projects/db2/repository/raw/09_5_DBMS.pdf)
 
 Bekijk -> [09_3_ORDBMS.pdf](https://projektwerk.ucll.be/projects/db2/repository/raw/09_3_ORDBMS.pdf)
 
@@ -159,11 +156,9 @@ Bekijk -> [10_1_XML.pdf](https://projektwerk.ucll.be/projects/db2/repository/raw
 
 Theorie:
 
-[11_1_Replicatie.pdf](https://projektwerk.ucll.be/projects/db2/repository/raw/11_1_Replicatie.pdf)
-
-[11_2_Buffers.pdf](https://projektwerk.ucll.be/projects/db2/repository/raw/11_2_Buffers.pdf)
-
-[11_3_Streaming-Replication.pdf](https://projektwerk.ucll.be/projects/db2/repository/raw/11_3_Streaming-Replication.pdf)
+- [11_1_Replicatie.pdf](https://projektwerk.ucll.be/projects/db2/repository/raw/11_1_Replicatie.pdf)
+- [11_2_Buffers.pdf](https://projektwerk.ucll.be/projects/db2/repository/raw/11_2_Buffers.pdf)
+- [11_3_Streaming-Replication.pdf](https://projektwerk.ucll.be/projects/db2/repository/raw/11_3_Streaming-Replication.pdf)
 
 **Maak oefeningen -> [11_4_logical_replication_oefening.pdf](https://projektwerk.ucll.be/projects/db2/repository/raw/11_4_logical_replication_oefening.pdf)**
 
