@@ -137,22 +137,22 @@ Theorie:
 
 Bekijk -> [10_1_XML.pdf](https://projektwerk.ucll.be/projects/db2/repository/raw/10_1_XML.pdf)
 
-Maak oefeningen -> [10_5_XML_oef.pdf](https://projektwerk.ucll.be/projects/db2/repository/changes/10_5_XML_oef.pdf)
+Maak oefeningen -> [10_5_XML_oef.pdf](https://projektwerk.ucll.be/projects/db2/repository/raw/10_5_XML_oef.pdf)
 
 # Manual week 11: 
 
 Theorie:
 
-[11_1_Replicatie.pdf](https://projektwerk.ucll.be/projects/db2/repository/changes/11_1_Replicatie.pdf)
+[11_1_Replicatie.pdf](https://projektwerk.ucll.be/projects/db2/repository/raw/11_1_Replicatie.pdf)
 
-[11_2_Buffers.pdf](https://projektwerk.ucll.be/projects/db2/repository/changes/11_2_Buffers.pdf)
+[11_2_Buffers.pdf](https://projektwerk.ucll.be/projects/db2/repository/raw/11_2_Buffers.pdf)
 
-[11_3_Streaming-Replication.pdf](https://projektwerk.ucll.be/projects/db2/repository/changes/11_3_Streaming-Replication.pdf)
+[11_3_Streaming-Replication.pdf](https://projektwerk.ucll.be/projects/db2/repository/raw/11_3_Streaming-Replication.pdf)
 
-Maak oefeningen -> [11_4_logical_replication_oefening.pdf](https://projektwerk.ucll.be/projects/db2/repository/changes/11_4_logical_replication_oefening.pdf)
+Maak oefeningen -> [11_4_logical_replication_oefening.pdf](https://projektwerk.ucll.be/projects/db2/repository/raw/11_4_logical_replication_oefening.pdf)
 
 # Manual week 12: Voorbereiding examen
 
-Overzicht: [12_1_Onvolledig_overzicht.pdf](https://projektwerk.ucll.be/projects/db2/repository/changes/12_1_Onvolledig_overzicht.pdf)
+Overzicht: [12_1_Onvolledig_overzicht.pdf](https://projektwerk.ucll.be/projects/db2/repository/raw/12_1_Onvolledig_overzicht.pdf)
 
 # 
