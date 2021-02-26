@@ -2,6 +2,8 @@
 
 
 
+# ONVOLLEDIGE MANUAL VOOR NAVIGATING PROJEKTWEEK
+
 # Manual week 1: DB1 RECAP
 
 # Manual week 2: Index geolite
@@ -16,7 +18,7 @@ Gebruik google
 
 **Maak oefeningen -> [02_3_index_geolite.pdf](https://projektwerk.ucll.be/projects/db2/repository/raw/02_3_index_geolite.pdf)**
 
-FAQ:
+Theorie:
 
 
 
@@ -32,8 +34,6 @@ Bekijk explain analyze ->  [03_1_explain.pdf](https://projektwerk.ucll.be/projec
 
 **Maak oefeningen NL -> [03_4_Optimalisatie_oef.pdf](https://projektwerk.ucll.be/projects/db2/repository/raw/03_4_Optimalisatie_oef.eng.pdf)**
 
-FAQ:
-
 
 
 # Manual week 4: Limiting results & Lateral
@@ -45,8 +45,6 @@ Bekijk limiting result sets NL -> [04_1_Limiting_result_sets.nld.pdf](https://pr
 Bekijk lateral join -> [04_2_LATERAL.pdf](https://projektwerk.ucll.be/projects/db2/repository/changes/04_2_LATERAL.pdf)
 
 **Maak oefening -> [04_3_chinook_media.pdf](https://projektwerk.ucll.be/projects/db2/repository/raw/04_3_chinook_media.pdf)**
-
-FAQ:
 
 
 
@@ -65,8 +63,8 @@ Bekijk deze slides ->
 
 > **Gebruikt ook Google of de links in "Extra" om de oefeningen op te lossen.**
 
-Maak oefeningen: [05_4_procedurele_SQL_oef.pdf](https://projektwerk.ucll.be/projects/db2/repository/raw/05_4_procedurele_SQL_oef.pdf)
-Maak oefeningen: [05_5_procedurele_SQL_trigger_oef.pdf](https://projektwerk.ucll.be/projects/db2/repository/raw/05_5_procedurele_SQL_trigger_oef.pdf)
+**Maak oefeningen -> [05_4_procedurele_SQL_oef.pdf](https://projektwerk.ucll.be/projects/db2/repository/raw/05_4_procedurele_SQL_oef.pdf)**
+**Maak oefeningen -> [05_5_procedurele_SQL_trigger_oef.pdf](https://projektwerk.ucll.be/projects/db2/repository/raw/05_5_procedurele_SQL_trigger_oef.pdf)**
 
 Extra: 
 Links die Bertels heeft gegeven vorig jaar
@@ -80,8 +78,81 @@ Links die Bertels heeft gegeven vorig jaar
 
 Nuttig: https://www.phphulp.nl/php/tutorial/overig/meer-doen-met-postgresql-1/371/triggers/817/
 
-faq:
-
 
 
 # Manual week 6: De 3de golf & GDPR & view sp triggers performantie
+
+Theorie -> [06_1_de_3de_golf.pdf](https://projektwerk.ucll.be/projects/db2/repository/raw/06_1_de_3de_golf.pdf) / [06_2_GDPR.pdf](https://projektwerk.ucll.be/projects/db2/repository/raw/06_2_GDPR.pdf)
+
+Extra voor oefeningen -> https://www.citusdata.com/blog/2016/10/12/count-performance/
+Extra voor oefeningen -> https://www.datacamp.com/community/tutorials/materialized-views-postgresql
+
+**Maak oefeningen -> [06_3_view_sp_triggers_performantie.pdf](https://projektwerk.ucll.be/projects/db2/repository/raw/06_3_view_sp_triggers_performantie.pdf)**
+
+# Manual week 7: Venster functies
+
+Theorie -> [07_1_venster_functies.eng.pdf](https://projektwerk.ucll.be/projects/db2/repository/raw/07_1_venster_functies.eng.pdf)
+
+Theorie -> [07_1_venster_functies.nld.pdf](https://projektwerk.ucll.be/projects/db2/repository/raw/07_1_venster_functies.nld.pdf)
+
+PSQL optionele oefeningen -> [07_2_psql_optioneel_oef.pdf](https://projektwerk.ucll.be/projects/db2/repository/raw/07_2_psql_optioneel_oef.pdf)
+
+# Manual week 8: CTE's
+
+Theorie -> [08_2_Beveiliging.pdf](https://projektwerk.ucll.be/projects/db2/repository/raw/08_2_Beveiliging.pdf)
+
+Bekijk -> [08_1_CTEs_lus_controle.pdf](https://projektwerk.ucll.be/projects/db2/repository/raw/08_1_CTEs_lus_controle.pdf)
+
+Bekijk -> [08_5_CTEs_english.pdf](https://projektwerk.ucll.be/projects/db2/repository/raw/08_5_CTEs_english.pdf)
+
+Maak oefeningen -> [08_3_CTEs_oefeningen.pdf](https://projektwerk.ucll.be/projects/db2/repository/raw/08_3_CTEs_oefeningen.pdf)
+
+Onvolledige oplossing [08_4_CTEs_oplossingen.pdf](https://projektwerk.ucll.be/projects/db2/repository/raw/08_4_CTEs_oplossingen.pdf)
+
+# Manual week 9: DBM - Soorten
+
+Lees deze slides:
+
+[09_1_ODMS_ORDBMS.pdf](https://projektwerk.ucll.be/projects/db2/repository/raw/09_1_ODMS_ORDBMS.pdf)
+
+[09_2_ODMS.pdf](https://projektwerk.ucll.be/projects/db2/repository/raw/09_2_ODMS.pdf)
+
+[09_3_ORDBMS.pdf](https://projektwerk.ucll.be/projects/db2/repository/raw/09_3_ORDBMS.pdf)
+
+[09_4_NoSQL.pdf](https://projektwerk.ucll.be/projects/db2/repository/raw/09_4_NoSQL.pdf)
+
+[09_5_DBMS.pdf](https://projektwerk.ucll.be/projects/db2/repository/raw/09_5_DBMS.pdf)
+
+Bekijk -> [09_6_ORDBMS_oef.pdf](https://projektwerk.ucll.be/projects/db2/repository/raw/09_6_ORDBMS_oef.pdf)
+
+Maak oefeningen -> [09_6_ORDBMS_oef.pdf](https://projektwerk.ucll.be/projects/db2/repository/raw/09_6_ORDBMS_oef.pdf)
+
+# Manual week 10: XML & JSON & Other formats
+
+Theorie:
+
+[10_2_JSON.pdf](https://projektwerk.ucll.be/projects/db2/repository/raw/10_2_JSON.pdf)
+
+[10_3_OtherFormats.pdf](https://projektwerk.ucll.be/projects/db2/repository/raw/10_3_OtherFormats.pdf)
+
+Bekijk -> [10_1_XML.pdf](https://projektwerk.ucll.be/projects/db2/repository/raw/10_1_XML.pdf)
+
+Maak oefeningen -> [10_5_XML_oef.pdf](https://projektwerk.ucll.be/projects/db2/repository/changes/10_5_XML_oef.pdf)
+
+# Manual week 11: 
+
+Theorie:
+
+[11_1_Replicatie.pdf](https://projektwerk.ucll.be/projects/db2/repository/changes/11_1_Replicatie.pdf)
+
+[11_2_Buffers.pdf](https://projektwerk.ucll.be/projects/db2/repository/changes/11_2_Buffers.pdf)
+
+[11_3_Streaming-Replication.pdf](https://projektwerk.ucll.be/projects/db2/repository/changes/11_3_Streaming-Replication.pdf)
+
+Maak oefeningen -> [11_4_logical_replication_oefening.pdf](https://projektwerk.ucll.be/projects/db2/repository/changes/11_4_logical_replication_oefening.pdf)
+
+# Manual week 12: Voorbereiding examen
+
+Overzicht: [12_1_Onvolledig_overzicht.pdf](https://projektwerk.ucll.be/projects/db2/repository/changes/12_1_Onvolledig_overzicht.pdf)
+
+# 
