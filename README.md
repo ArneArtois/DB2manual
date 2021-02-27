@@ -76,7 +76,7 @@ Bekijk deze slides:
 - [05_3_procedurele_sql_2.pdf](https://projektwerk.ucll.be/projects/db2/repository/raw/05_3_procedurele_sql_2.pdf)
 - [05_6_Procedures_Functions_Triggers.pdf](https://projektwerk.ucll.be/projects/db2/repository/raw/05_6_Procedures_Functions_Triggers.pdf)
 
-> **Gebruikt ook Google of de links in "Extra" om de oefeningen op te lossen.**
+> **Gebruik ook Google of de links in "Extra" om de oefeningen op te lossen.**
 
 **Maak oefeningen -> [05_4_procedurele_SQL_oef.pdf](https://projektwerk.ucll.be/projects/db2/repository/raw/05_4_procedurele_SQL_oef.pdf)**
 
